@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+
+#root {
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+  background-color: #c96120;
+  font-family: "Press Start 2P", cursive;
+}
+
+.evo {
+  width: 280px;
+  height: 210px;
+}
